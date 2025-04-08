@@ -17,7 +17,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandeeshsaranb&show_icons=true&locale=en" alt="chandeeshsaranb" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandeeshsaranb&show_icons=true&locale=en" alt="chandeeshsaranb" /></p>
