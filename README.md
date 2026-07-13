@@ -12,8 +12,6 @@ Currently improving my backend development skills while learning cybersecurity a
 - CSS
 - JavaScript
 - React
-- Tailwind CSS
-- Bootstrap
 
 ### Backend
 - PHP
@@ -26,27 +24,9 @@ Currently improving my backend development skills while learning cybersecurity a
 - VS Code
 - XAMPP
 - Linux
-- Docker (Learning)
 
 ## 🌱 Currently Learning
 
-- Advanced Laravel
+- Advanced api's
 - System Design
 - Linux
-- Bug Bounty Methodology
-
-## 📌 Featured Projects
-
-### MED
-Medical-related web application.
-
-### Star Paper Boards
-Company website with responsive UI and SEO optimization.
-
-### Nellimart CRM
-CRM system for quotation, purchase, logistics and sales workflow.
-
-## 📫 Connect
-
-- LinkedIn: (your link)
-- Portfolio: (when ready)
