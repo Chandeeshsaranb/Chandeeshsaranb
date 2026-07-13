@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Chandeesh 👋
 
-<!--
-**Chandeeshsaranb/Chandeeshsaranb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Web Developer from India 🇮🇳
 
-Here are some ideas to get you started:
+I build modern web applications using React, JavaScript, PHP, and Laravel.
+Currently improving my backend development skills while learning cybersecurity and Linux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+- Tailwind CSS
+- Bootstrap
+
+### Backend
+- PHP
+- Laravel
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- XAMPP
+- Linux
+- Docker (Learning)
+
+## 🌱 Currently Learning
+
+- Advanced Laravel
+- System Design
+- Linux
+- Bug Bounty Methodology
+
+## 📌 Featured Projects
+
+### MED
+Medical-related web application.
+
+### Star Paper Boards
+Company website with responsive UI and SEO optimization.
+
+### Nellimart CRM
+CRM system for quotation, purchase, logistics and sales workflow.
+
+## 📫 Connect
+
+- LinkedIn: (your link)
+- Portfolio: (when ready)
