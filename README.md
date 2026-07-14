@@ -3,7 +3,7 @@
 Frontend Web Developer from India 🇮🇳
 
 I build modern web applications using React, JavaScript, PHP, and Laravel.
-Currently improving my backend development skills while learning cybersecurity and Linux.
+Currently improving my backend development skills while learning Linux.
 
 ## 🚀 Tech Stack
 
