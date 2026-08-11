@@ -1,6 +1,6 @@
 # Hi, I'm Chandeesh 👋
 
-Frontend Web Developer from India 🇮🇳
+Fullstack Developer from India 🇮🇳
 
 I build modern web applications using React, JavaScript, PHP, and Laravel.
 Currently improving my backend development skills while learning Linux.
@@ -11,7 +11,7 @@ Currently improving my backend development skills while learning Linux.
 - HTML
 - CSS
 - JavaScript
-- React
+- React/React Native
 
 ### Backend
 - PHP
