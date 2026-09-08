@@ -15,6 +15,7 @@ Currently improving my backend development skills while learning Linux.
 
 ### Backend
 - PHP
+- Node js
 - Laravel
 - MySQL
 
