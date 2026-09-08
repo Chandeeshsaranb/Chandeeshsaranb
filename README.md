@@ -22,6 +22,8 @@ Currently improving my backend development skills while learning Linux.
 ### Tools
 - Git
 - GitHub
+- Codex
+- Antigravity
 - VS Code
 - XAMPP
 - Linux
